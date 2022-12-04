@@ -5,7 +5,7 @@ const { webpack } = require('webpack');
 const buildPath = path.join(__dirname, '../build');
 
 const isDev = process.env.NODE_ENV == "development"
-const assetsPath = 'assets/__nubdev__'
+const assetsPath = 'assets'
 
 module.exports = {
   entry: './src/index.tsx',

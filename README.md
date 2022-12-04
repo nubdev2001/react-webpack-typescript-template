@@ -1,6 +1,6 @@
 # **React 18.2.0 With Webpack**
 ```react@18.2.0```
-```webpack@18.2.0```
+```webpack@5.75.0```
 ```
 build
 |   favicon.ico

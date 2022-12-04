@@ -2,9 +2,11 @@
 ```react@18.2.0```
 ```webpack@18.2.0```
 # **Setup**
-```git clone https://github.com/nubdev2001/react-webpack-typescript-template```
-```cd react-webpack-typescript-template-main```
-```npm install```
+```
+git clone https://github.com/nubdev2001/react-webpack-typescript-template
+cd react-webpack-typescript-template-main
+npm install
+```
 # **Scripts**
 ```npm run build - build static file```
 ```npm run dev - develoment```

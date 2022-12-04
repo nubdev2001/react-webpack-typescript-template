@@ -8,8 +8,10 @@ cd react-webpack-typescript-template-main
 npm install
 ```
 # **Scripts**
-```npm run build - build static file```
-```npm run dev - develoment```
+```
+npm run build - build static file
+npm run dev - develoment
+```
 ```
 build
 |   favicon.ico
